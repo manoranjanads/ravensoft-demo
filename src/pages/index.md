@@ -1,6 +1,6 @@
 ---
-templateKey: 'home-page'
-title: Gatsby Starter Business
+templateKey: "home-page"
+title: Gatsby Starter Businesss
 meta_title: Home | Gatsby Starter Business
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -59,7 +59,7 @@ testimonials:
   - author: Vaibhav Sharma
     quote: >-
       Donec scelerisque magna nec condimentum porttitor. Aliquam vel diam sed diam luctus pretium. 
-      Sed quis egestas libero. Vestibulum nec venenatis ligula. 
+      Sed quis egestas libero. Vestibulum nec venenatis ligula.
   - author: Subarashi San
     quote: >-
       Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et dignissim ligula. 
